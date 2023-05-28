@@ -3,7 +3,7 @@
  *      Implement Min, Max, Sum and Average operations using Parallel Reduction.
  *
  * TO EXECUTE CODE:
- *      >> g++ -fopenmp lab3.cpp
+ *      >> g++ -fopenmp minmax.cpp
  *      >> ./a
  */
 
