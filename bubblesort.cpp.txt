@@ -4,7 +4,7 @@
  *      Use existing algorithms and measure the performance of sequential and parallel algorithms.
  *
  * TO EXECUTE CODE:
- *      >> g++ -fopenmp lab2.cpp
+ *      >> g++ -fopenmp bubblesort.cpp
  *      >> ./a
  */
 
