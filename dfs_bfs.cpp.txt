@@ -4,7 +4,7 @@
  *      Use a Tree or an undirected graph for BFS and DFS.
  * 
  * TO EXECUTE CODE:
- *      >> g++ -fopenmp lab1.cpp
+ *      >> g++ -fopenmp dfs_bfs.cpp
  *      >> ./a
  */
 
